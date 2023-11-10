@@ -1,0 +1,37 @@
+header{
+    background-color: blue;
+    margin-bottom: auto;
+}
+.navigace a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.okenko{
+    background-color: rgb(0, 94, 172);
+    justify-content: center;
+    margin: 5px 100px;
+    width: auto;
+}
+.Git{
+    display: flex;
+    justify-content: center;
+}
+.text{
+    border-radius: 10px;
+    background-color: aquamarine; 
+    display: flex;
+    justify-content: center; 
+    margin: 20px 55px;
+}
+footer{
+    background-color: blueviolet;
+    margin-top: auto;
+ 
+}
+body{
+    display: flex;
+    flex-direction: column;
+}
